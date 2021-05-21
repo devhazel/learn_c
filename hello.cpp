@@ -7,5 +7,8 @@
 int main() {
     // programming의 시작 Hello, World!
     printf("%s", "Hello, World!₩n");
+
+    // 3*5 직사각형 출력
+    printf("@@@@@₩n@@@@@₩n@@@@@");
     return 0;
 }
