@@ -5,6 +5,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!");
+    // programming의 시작 Hello, World!
+    printf("%s", "Hello, World!₩n");
     return 0;
 }
