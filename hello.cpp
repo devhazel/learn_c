@@ -6,9 +6,13 @@
 
 int main() {
     // programming의 시작 Hello, World!
-    printf("%s", "Hello, World!₩n");
+    printf("%s", "Hello, World!\n");
 
     // 3*5 직사각형 출력
-    printf("@@@@@₩n@@@@@₩n@@@@@");
+    printf("@@@@@\n@@@@@\n@@@@@\n");
+
+    // 가운데가 빈 사각형 출력
+    printf("@@@@@\n@   @\n@   @\n@@@@@\n");
+    
     return 0;
 }
