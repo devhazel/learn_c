@@ -8,14 +8,16 @@ int main() {
     // programming의 시작 Hello, World!
     printf("%s", "Hello, World!\n");
 
+    /**
+     * 01강. printf()를 한번만 사용하여 출력하기
+     */
     // 3*5 직사각형 출력
     printf("@@@@@\n@@@@@\n@@@@@\n");
-
     // 가운데가 빈 사각형 출력
     printf("@@@@@\n@   @\n@   @\n@@@@@\n");
-    
     // 피라미드
     printf("   $   \n  $$$  \n $$$$$ \n$$$$$$$\n");
-    
+    // 알파벳 B 출력
+    printf("BBBBBB \nB     B\nB     B\nBBBBBB \nB     B\nB     B\nBBBBBB \n");
     return 0;
 } 
